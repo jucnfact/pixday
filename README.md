@@ -4,8 +4,7 @@ Pixday is a project aimed at celebrating special occasions (esp. birthdays) in a
 
 ## Technologies Used
 - HTML, CSS, JavaScript
-### Libraries
-- JQuery and splide.js
+- Libraries: JQuery and splide.js
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
